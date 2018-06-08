@@ -1,5 +1,11 @@
 # Message Delivery Status using Laravel and Pusher
 
+Build a realtime message delivery system using Laravel and Pusher.
+
+[View tutorial](https://pusher.com/tutorials/read-receipts-laravel/)
+
+## Getting Started
+
 Please follow below steps to have a running version of the app in this repo
 
 1. Clone repo
@@ -9,3 +15,15 @@ Please follow below steps to have a running version of the app in this repo
 5. Run npm install
 6. Run the seeder. You will get two dummy users. The password for those users will be `secret`
 7. Do not forget to run the queue listener to broadcast the events
+
+## Prerequisites
+
+...
+
+## Built With
+
+...
+
+## Acknowledgements
+
+...
